@@ -1,0 +1,41 @@
+.wrapper{
+    border: solid 5px rgba(0,147,255,0.73);
+    border-radius: 40px;
+    width: 200px;
+}
+html{
+    border-left: solid 10px rgba(0,8,137,0.73);
+}
+body{
+    background-color: rgba(25, 109, 120, 0.37);
+}
+.image{
+    border: rgba(0,4,137,0.73) solid;
+}
+#introduction{
+    border: solid 5px rgba(0,8,137,0.73);
+    border-radius: 20px;
+    background-color: rgba(0, 8, 137, 0.35);
+    padding: 100px;
+    width: 600px;
+    height: 25px;
+    color: rgba(18,23,137,0.73)
+}
+.text{
+    color: rgba(30,37,137,0.73);
+}
+.text2{
+    color: rgba(30, 37, 137, 0.54);
+}
+.text3{
+    color: rgba(0, 255, 255, 0.95);
+}
+.text4{
+    color: rgba(165, 42, 42, 0.93);
+}
+.text5{
+    color: rgba(210, 105, 30, 0.91);
+}
+.text6{
+    color: rgba(250, 235, 215, 0.84);
+}
